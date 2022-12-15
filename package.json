@@ -1,5 +1,5 @@
 {
-  "name": "cyres-webpack-starter",
+  "name": "test1",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CyresSmith/cyres-webpack-starter.git"
+    "url": "git+https://github.com/Mihail18071983/test1.git"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
